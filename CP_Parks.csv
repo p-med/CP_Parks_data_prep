@@ -1,17 +1,53 @@
-,PARKID,PARKNAME,OWNER,ORIG_FID,park_url,Baseball/Softball Fields,Basketball Courts,Fitness Equipment,Playground Equipment,Street Hockey,Tennis Courts,Trail Access,Picnic Tables,BBQ Grills,Fields(multipurpose),Parking Lot,Soccer/Futsal,Fishing
-0,N79,Indian Creek Stream Valley Park,M-NCPPC,3,https://www.pgparks.com/parks_trails/indian-creek-stream-valley-park,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No
-1,N36,College Park Woods Park,M-NCPPC,6,https://www.pgparks.com/parks_trails/college-park-woods-park,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No
-2,N10,Berwyn Park,M-NCPPC,11,https://www.pgparks.com/parks_trails/berwyn-park,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No
-3,,James Adams Park,MUNI,24,https://www.pgparks.com/parks_trails/james-adams-park,No,No,No,No,No,No,No,No,No,No,No,No,No
-4,N62,Acredale Park,M-NCPPC,25,https://www.pgparks.com/parks_trails/acredale-park,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No
-5,S64,College Park Community Center,M-NCPPC,26,https://www.pgparks.com/parks_trails/college-park-community-center,No,No,No,No,No,No,No,No,No,No,No,No,No
-6,N77,Hollywood Park,M-NCPPC,28,https://www.pgparks.com/parks_trails/hollywood-park,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No
-7,N64,Paint Branch Parkway Park,M-NCPPC,29,https://www.pgparks.com/parks_trails/paint-branch-parkway-park,No,No,No,No,No,No,No,No,No,No,No,No,No
-8,N32,Cherry Hill Park,M-NCPPC,34,https://www.pgparks.com/parks_trails/cherry-hill-park,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No
-9,N31,Calvert Park,M-NCPPC,37,https://www.pgparks.com/parks_trails/calvert-park,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No
-10,N92,Paint Branch Golf Complex,M-NCPPC,42,https://www.pgparks.com/parks_trails/paint-branch-golf-complex,No,No,No,No,No,No,No,No,No,No,No,No,No
-11,S85,Lake Artemesia Park,M-NCPPC,44,https://www.pgparks.com/parks_trails/lake-artemesia-park,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes
-12,S60,Lakeland Park,MUNI/M-NCPPC,45,https://www.pgparks.com/parks_trails/lakeland-park,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No
-13,S36,Northgate Urban Park,M-NCPPC,46,https://www.pgparks.com/parks_trails/northgate-urban-park,No,No,No,No,No,No,Yes,No,No,No,No,No,No
-14,M19,Sunnyside Park,M-NCPPC,47,https://www.pgparks.com/parks_trails/sunnyside-park,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No
-15,,Hollywood Gateway Park,MUNI,48,https://www.pgparks.com/parks_trails/hollywood-gateway-park,No,No,No,No,No,No,No,No,No,No,No,No,No
+,PARKID,PARKNAME,OWNER,ORIG_FID,park_url,Baseball/Softball Fields,Basketball Courts,Fitness Equipment,Playground Equipment,Street Hockey,Tennis Courts,Trail Access,Picnic Tables,BBQ Grills,Fields(multipurpose),Parking Lot,Soccer/Futsal,Fishing,Amenities
+0,N79,Indian Creek Stream Valley Park,M-NCPPC,3,https://www.pgparks.com/parks_trails/indian-creek-stream-valley-park,No,No,No,No,Yes,No,Yes,No,No,No,No,No,No,"Street Hockey
+Trail Access"
+1,N36,College Park Woods Park,M-NCPPC,6,https://www.pgparks.com/parks_trails/college-park-woods-park,Yes,Yes,Yes,Yes,No,Yes,Yes,No,No,No,No,No,No,"Basketball Courts
+Fitness Equipment
+Playground Equipment
+Tennis Courts
+Trail Access"
+2,N10,Berwyn Park,M-NCPPC,11,https://www.pgparks.com/parks_trails/berwyn-park,No,Yes,No,Yes,No,Yes,No,Yes,No,No,No,No,No,"Basketball Courts
+Playground Equipment
+Tennis Courts
+Picnic Tables"
+3,,James Adams Park,MUNI,24,https://www.pgparks.com/parks_trails/james-adams-park,No,No,No,No,No,No,No,No,No,No,No,No,No,
+4,N62,Acredale Park,M-NCPPC,25,https://www.pgparks.com/parks_trails/acredale-park,Yes,No,Yes,Yes,No,No,No,Yes,Yes,Yes,Yes,Yes,No,"Fitness Equipment
+Playground Equipment
+Picnic Tables
+BBQ Grills
+Fields(multipurpose)
+Parking Lot
+Soccer/Futsal"
+5,S64,College Park Community Center,M-NCPPC,26,https://www.pgparks.com/parks_trails/college-park-community-center,No,No,No,No,No,No,No,No,No,No,No,No,No,
+6,N77,Hollywood Park,M-NCPPC,28,https://www.pgparks.com/parks_trails/hollywood-park,Yes,Yes,No,Yes,No,Yes,No,Yes,No,No,Yes,No,No,"Basketball Courts
+Playground Equipment
+Tennis Courts
+Picnic Tables
+Parking Lot"
+7,N64,Paint Branch Parkway Park,M-NCPPC,29,https://www.pgparks.com/parks_trails/paint-branch-parkway-park,No,No,No,No,No,No,No,No,No,No,No,No,No,
+8,N32,Cherry Hill Park,M-NCPPC,34,https://www.pgparks.com/parks_trails/cherry-hill-park,Yes,Yes,No,Yes,No,No,No,Yes,No,Yes,Yes,No,No,"Basketball Courts
+Playground Equipment
+Picnic Tables
+Fields(multipurpose)
+Parking Lot"
+9,N31,Calvert Park,M-NCPPC,37,https://www.pgparks.com/parks_trails/calvert-park,Yes,Yes,Yes,Yes,No,No,No,Yes,Yes,No,Yes,No,No,"Basketball Courts
+Fitness Equipment
+Playground Equipment
+Picnic Tables
+BBQ Grills
+Parking Lot"
+10,N92,Paint Branch Golf Complex,M-NCPPC,42,https://www.pgparks.com/parks_trails/paint-branch-golf-complex,No,No,No,No,No,No,No,No,No,No,No,No,No,
+11,S85,Lake Artemesia Park,M-NCPPC,44,https://www.pgparks.com/parks_trails/lake-artemesia-park,No,No,No,No,No,No,Yes,Yes,No,No,Yes,No,Yes,"Trail Access
+Picnic Tables
+Parking Lot
+Fishing"
+12,S60,Lakeland Park,MUNI/M-NCPPC,45,https://www.pgparks.com/parks_trails/lakeland-park,No,Yes,No,Yes,No,No,Yes,Yes,No,No,No,No,No,"Basketball Courts
+Playground Equipment
+Trail Access
+Picnic Tables"
+13,S36,Northgate Urban Park,M-NCPPC,46,https://www.pgparks.com/parks_trails/northgate-urban-park,No,No,No,No,No,No,Yes,No,No,No,No,No,No,Trail Access
+14,M19,Sunnyside Park,M-NCPPC,47,https://www.pgparks.com/parks_trails/sunnyside-park,No,Yes,No,No,No,No,Yes,Yes,No,No,Yes,No,No,"Basketball Courts
+Trail Access
+Picnic Tables
+Parking Lot"
+15,,Hollywood Gateway Park,MUNI,48,https://www.pgparks.com/parks_trails/hollywood-gateway-park,No,No,No,No,No,No,No,No,No,No,No,No,No,
